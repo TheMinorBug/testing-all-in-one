@@ -51,6 +51,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
 
 ### UI & End-to-End Testing
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available natural-language web, Android, and iOS application testing through CLI, dashboard, and MCP.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [Ferrum](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
